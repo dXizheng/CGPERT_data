@@ -3,6 +3,8 @@ message: "If you use these supporting data, please cite this dataset and the ori
 type: dataset
 title: "CGPERT: Supporting Data for Codon-Level Prediction of Single-Cell Transcriptomic Responses to Gene Perturbation"
 version: 1.0.0
+date-released: 2026-10-24
+doi: 10.5281/zenodo.23619458
 license: CC-BY-NC-4.0
 url: "https://github.com/dXizheng/CGPERT_data"
 authors:

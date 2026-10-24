@@ -68,8 +68,8 @@ The supplied package does not include training/plotting scripts, model checkpoin
 complete preprocessed expression matrices or dedicated numerical exports for all
 ablation, permutation, counterfactual and primary-CML validation panels. Accordingly,
 this release should not be described as containing all data and code needed to
-reproduce every manuscript result. The naming and packaging process does not
-resolve scientific or statistical questions about the underlying analyses.
+reproduce every manuscript result. These files are shared as supplied and should be interpreted alongside the
+associated manuscript.
 
 Version and rights
 Prepared as version 1.0.0 on 24 October 2026. The original 28 data files are
@@ -79,4 +79,6 @@ https://creativecommons.org/licenses/by-nc/4.0/
 Reuse is permitted for noncommercial purposes subject to attribution and the
 license terms.
 Upstream datasets remain subject to their own terms and attribution requirements.
-A DOI and repository URL will be added only after they are actually issued.
+Repository: https://github.com/dXizheng/CGPERT_data
+Reserved archive DOI: https://doi.org/10.5281/zenodo.23619458
+The DOI is registered when the Zenodo record is published.
