@@ -1,0 +1,8 @@
+Creative Commons Attribution-NonCommercial 4.0 International
+SPDX identifier: CC-BY-NC-4.0
+
+These CGPERT supporting data are licensed under CC BY-NC 4.0.
+The license applies only to material the creators have authority to license.
+Upstream datasets remain subject to their original terms and attribution.
+License text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+License summary: https://creativecommons.org/licenses/by-nc/4.0/

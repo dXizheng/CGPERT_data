@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use these supporting data, please cite this dataset and the original source datasets."
+type: dataset
+title: "CGPERT: Supporting Data for Codon-Level Prediction of Single-Cell Transcriptomic Responses to Gene Perturbation"
+version: 1.0.0
+license: CC-BY-NC-4.0
+url: "https://github.com/dXizheng/CGPERT_data"
+authors:
+  - family-names: Jiang
+    given-names: Qi-Yu
+  - family-names: Zhao
+    given-names: Yi-Han
+  - family-names: Deng
+    given-names: Xi-Zheng
+  - family-names: Zhu
+    given-names: Sheng-Ling
+  - family-names: Zeng
+    given-names: Hui-Yan
+keywords:
+  - gene perturbation
+  - single-cell transcriptomics
+  - codon attribution
+  - interpretable deep learning
